@@ -1,0 +1,101 @@
+.container {
+	width: 1020px;
+	margin: auto;
+}
+
+.header {
+	margin-bottom: 0px;
+	
+
+}
+
+.menu {
+	padding : 10px;
+	background: #FFFF00;
+	color: #fff;
+	text-decoration: none;
+	
+}
+
+.menu a {
+	color: black;
+	border: 1px solid #000;
+	padding: 4px;
+	text-decoration: none;
+	border-radius: 19px;
+}
+
+.menu a:hover {
+	background: black;
+}
+
+.tambah {
+border: 1px solid #000;
+padding: 4px;
+text-decoration: none;
+background-color: #FFFF00;
+color: black;
+
+
+}
+
+.tambah:hover {
+	background-color: black;
+	color: black;
+}
+
+table {
+	margin-top: 10px;
+}
+
+table a{
+	border: 1px solid #ccc;
+	padding: 10px;
+	background-color: #19B5FE;
+	color: #fff;
+	margin-top: 10px;
+}
+
+table tr{
+	border: 1px solid #ccc;
+	padding: 10px;
+	background-color: #19B5FE;
+	color: #DCDCDC;
+}
+
+table{
+	border: 1px solid #ccc;
+	border-collapse: collapse;
+}
+
+.edit {
+	text-decoration: none;
+	padding: 7px;
+	background-color: #1761ab;
+}
+
+.delete {
+	text-decoration: none;
+	padding: 5px;
+	background-color: #1761ab;
+}
+
+
+table th{
+	border: 1px solid #ccc;
+	padding: 10px;
+	background-color: 000035;
+	color: #fff;
+}
+
+table td{
+	border: 1px solid #ccc;
+	padding: 10px;
+	background-color: #FFFF00;
+	color: black;
+}
+.submit {
+	padding: 5px;
+	background-color: blue;
+	color: black
+}
